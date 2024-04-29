@@ -1,6 +1,6 @@
 name: proj_fivetran_prophecy
 description: ''
-version: 0.0.1
+version: v0.1
 author: santosh@cloudaeon.net
 language: python
 buildSystem: ''
